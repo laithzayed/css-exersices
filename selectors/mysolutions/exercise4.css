@@ -1,0 +1,36 @@
+<style>
+
+    body {
+
+     background-color: #f0f8ff;
+    }
+
+    
+
+    body > div > p > a  {
+
+        color: green;
+
+    }
+
+
+     body > div:nth-child(2) >  p > a  {
+
+        color: purple;
+        background-color: yellow;
+
+
+
+    }
+
+    ul > li > ul > li {
+        color:blue;
+    }
+
+    ul > li > a {
+        color: red;
+    }
+
+        </style>
+
+    
